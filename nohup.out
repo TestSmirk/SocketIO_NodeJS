@@ -1,0 +1,5 @@
+
+> socket.io-chat@0.0.0 start /server/socket/socket.io/examples/chat
+> node index.js
+
+Server listening at port 3000
